@@ -9,7 +9,7 @@ Fluid >=X.X.X requires Laravel 5.1.
 Require this package with Composer
 
 ```bash
-composer require wmdbsystems/fluidlaravel 1.0.x
+composer require wmdbsystems/fluidlaravel dev-master
 ```
 
 Once Composer has installed or updated your packages you need to register FluidLaravel with Laravel itself. Open up config/app.php and find the providers key towards the bottom and add:
